@@ -1,0 +1,26 @@
+version: '3'
+services:
+  publisher:
+    # создаём образ из ./Dockerfile
+    build: .
+    volumes:
+      - ./publisher:/app
+    working_dir: /app
+    env_file:
+      - .env
+    # порты доступные на localhost
+    ports:
+      - 5000:5000
+
+  subscriber:
+    # создаём образ из ./Dockerfile
+    build: .
+    volumes:
+      - ./subscriber:/app
+    working_dir: /app
+    env_file:
+      - .env
+
+  nats:
+    image: nats-streaming:0.16.2
+    restart: on-failure
