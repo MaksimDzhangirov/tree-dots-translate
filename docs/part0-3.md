@@ -1,5 +1,7 @@
 # Автоматическое семантическое управление версиями в GitLab CI
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/automatic-semantic-versioning-in-gitlab-ci/)
+
 Милош Смолка. Технический руководитель [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

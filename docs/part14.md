@@ -1,5 +1,7 @@
 # Запуск интеграционных тестов в Google Cloud Build с использованием docker-compose
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/running-integration-tests-on-google-cloud-build/)
+
 Милош Смолка. Технический руководитель [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

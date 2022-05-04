@@ -1,5 +1,7 @@
 # Бизнес-приложения на Go: что нужно знать о DRY
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/things-to-know-about-dry/)
+
 Милош Смолка. Технический руководитель [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

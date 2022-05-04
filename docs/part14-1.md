@@ -1,5 +1,7 @@
 # Темные века программного обеспечения
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/software-dark-ages/)
+
 Роберт Лащак. Главный инженер [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/).
 Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).

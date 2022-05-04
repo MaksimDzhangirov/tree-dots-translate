@@ -1,5 +1,7 @@
 # Слишком современное приложение на Go? Создание бессерверного приложения с помощью Google Cloud Run и Firebase
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/serverless-cloud-run-firebase-modern-go-application/)
+
 Роберт Лащак. Главный инженер [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

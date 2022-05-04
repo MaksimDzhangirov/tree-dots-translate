@@ -1,5 +1,7 @@
 # Шаблон проектирования репозиторий: безболезненный способ упростить логику Вашего Go сервиса
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/repository-pattern-in-go/)
+
 Роберт Лащак. Главный инженер [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/).
 Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).

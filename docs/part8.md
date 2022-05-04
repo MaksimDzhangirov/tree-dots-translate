@@ -1,5 +1,7 @@
 # 4 практических правила для создания качественных интеграционных тестов с базой данных на Go
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/database-integration-testing/)
+
 Роберт Лащак. Главный инженер [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/).
 Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).

@@ -1,5 +1,7 @@
 # Вы не должны создавать свою собственную систему аутентификации. Пусть Firebase сделает это за вас
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/firebase-cloud-run-authentication/)
+
 Роберт Лащак. Главный инженер [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

@@ -1,5 +1,7 @@
 # Советы GitLab CI по созданию пользовательских рабочих процессов
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/gitlab-ci-tips-for-building-custom-workflows/)
+
 Милош Смолка. Технический руководитель [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

@@ -1,5 +1,7 @@
 ## Введение в базовый CQRS путем рефакторинга Go проекта
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/basic-cqrs-in-go/)
+
 Роберт Лащак. Главный инженер [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/).
 Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).

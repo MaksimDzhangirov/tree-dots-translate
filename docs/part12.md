@@ -1,5 +1,7 @@
 # Тестовая архитектура микросервисов. Можно ли спать спокойно без сквозных тестов? 
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/microservices-test-architecture/)
+
 Милош Смолка. Технический руководитель [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

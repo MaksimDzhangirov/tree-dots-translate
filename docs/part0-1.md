@@ -1,5 +1,7 @@
 # Почему использование микросервисов или монолита может быть лишь незначительной деталью
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/microservices-or-monolith-its-detail/)
+
 Роберт Лащак. Главный инженер [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

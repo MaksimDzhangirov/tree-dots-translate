@@ -1,5 +1,7 @@
 # Более безопасные перечисления в Go
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/safer-enums-in-go/)
+
 Милош Смолка. Технический руководитель [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

@@ -1,5 +1,7 @@
 # Введение в упрощенное предметно-ориентированное проектирование: когда микросервисов в Go недостаточно
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/ddd-lite-in-go-introduction/)
+
 Роберт Лащак. Главный инженер [Karhoo](https://www.karhoo.com/). Соучредитель 
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

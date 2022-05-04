@@ -1,5 +1,7 @@
 # Надежное gRPC взаимодействие в Google Cloud Run (и не только!)
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/robust-grpc-google-cloud-run/)
+
 Роберт Лащак. Главный инженер [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

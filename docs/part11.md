@@ -1,5 +1,7 @@
 # Объединение DDD, CQRS и чистой архитектуры путем рефакторинга Go проекта
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
+
 Роберт Лащак. Главный инженер [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/).
 Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).

@@ -1,5 +1,7 @@
 # Среда разработки Go в Docker с Go модулями и перезагрузкой кода в реальном времени
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/go-docker-dev-environment-with-go-modules-and-live-code-reloading/)
+
 Милош Смолка. Технический руководитель [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 

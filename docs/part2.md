@@ -1,5 +1,7 @@
 # Подробное описание настройки Terraform для бессерверного приложения в Google Cloud Run и Firebase
 
+[Данная статья является переводом. Оригинал можно найти по ссылке](https://threedots.tech/post/complete-setup-of-serverless-application/)
+
 Милош Смолка. Технический руководитель [Karhoo](https://www.karhoo.com/). Соучредитель
 [Three Dots Labs](https://threedotslabs.com/). Создатель [Watermill](https://github.com/ThreeDotsLabs/watermill).
 
