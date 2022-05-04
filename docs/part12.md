@@ -510,6 +510,7 @@ func (s UsersGrpc) UpdateTrainingBalance(ctx context.Context, userID string, amo
 разработчиков.
 
 ![setup](images/part12/setting-up-end-to-end.jpg)
+
 Вы не хотите, чтобы это было вашим основным подходом к тестированию.
 
 Мы будем использовать такой подход далее, в сквозных тестах. А пока мы добавляем 

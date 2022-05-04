@@ -178,6 +178,7 @@
 создать тип `Training` для обработки этих операций.
 
 ![trainingservice](images/part11/training-svc-methods.jpg)
+
 Методы [TrainingService](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/blob/v2.4/internal/trainings/app/training_service.go#L32) после рефакторинга
 
 > существительное == сущность
@@ -643,6 +644,7 @@ func (r TrainingsFirestoreRepository) UpdateTraining(
 сервиса приложения.
 
 ![clear-arch](images/part11/clean-arch-2.jpg)
+
 Слои чистой/гексогональной архитектуры
 
 ```go
